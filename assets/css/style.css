@@ -1,7 +1,7 @@
 :root {
     --primary-color: #0c740c;
     --secondary-color: #024e76;
-    --tertiary-color: #39a6b2;
+    --tertiary-color: #bee2b5;
 }
 
 * {
@@ -12,7 +12,9 @@
 
 body {
     font-family: Helvetica, Arial, sans-serif;
-    color: var(--tertiary-color)
+    color: var(--tertiary-color);
+    background-color: var(--primary-color);
+    
 }
 
 header {
@@ -23,7 +25,7 @@ header {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    background-image: url("../images/msubanner.png");
+    background-image: url("../images/golf-img.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: 80%;
@@ -63,20 +65,18 @@ header nav ul li a {
 }
 
 .headshot {
-    background-image: url("../images/msubanner.png");
+    background-image: url("../images/golf-img.jpg");
     background-size: cover;
     background-attachment: fixed;
-    background-position: 50%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;  
+    background-position: 50%;        
 }
 
 .headshot-img {
     display: flex;
-    flex-wrap: wrap;
-    width:0%;
-    height: auto;
+    justify-content: flex-start;
+    max-width: auto;
+    max-height: auto;    
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);   
 }
+
 
