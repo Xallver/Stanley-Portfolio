@@ -90,9 +90,8 @@ header nav ul li a {
     margin: 50px;
 }
 
-.work-history iframe {
-    display: flex;
-    
+.output {
+    background: #eee;
 }
 
 .resume h3 {
@@ -149,4 +148,4 @@ header nav ul li a {
         flex: 0 100%;
     }
 
-    
+}
