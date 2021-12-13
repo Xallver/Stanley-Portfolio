@@ -8,9 +8,13 @@ This is my portfolio which is a website I built to display my short comings of b
 * https://github.com/Xallver/Stanley-Portfolio
 * clone repo from github <a href="https://github.com/Xallver/Stanley-Portfolio">Github Repo</a>
 
+
+## Usage
+![websitescreenshot](assets/images/webscreenshot.png)
+
 ## Credits
 
 Thanks to all the TA's and Classmates in my MSU Bootcamp3
 
-## Usage
-![websitescreenshot](assets/images/portfolioscreenshot.png)
+
+
