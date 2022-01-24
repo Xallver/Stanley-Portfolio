@@ -82,7 +82,10 @@ header nav ul li a {
 }
 /*headshot end*/
 
-
+h4 {
+    font-weight: bold;
+    font-style:italic
+}
 .work-history {
   display: flex;
   flex-flow: row wrap;  
