@@ -10,6 +10,7 @@ This is my portfolio which is a website I built to display my short comings of b
 
 
 ## Usage
+https://xallver.github.io/Stanley-Portfolio/ - website
 ![websitescreenshot](assets/images/webscreenshot.png)
 
 ## Credits
